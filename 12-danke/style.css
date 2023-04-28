@@ -4,7 +4,6 @@ body {
   padding: 0;
   width: 100%;
   height: 100vh;
-  font-size: 200px;
 }
 
 @font-face {
@@ -15,6 +14,7 @@ body {
 
 a {
   font-family: "SpaceMono";
+  font-size: 220px;
   color: #fe3200;
   text-align: center;
   margin-inline: 100px;
