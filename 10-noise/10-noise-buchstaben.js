@@ -23,7 +23,7 @@ function draw() {
   strokeWeight(2)
 
   push();
-  textSize(500);
+  textSize(400);
   textAlign(CENTER, CENTER);
   fill(pick(colors));
   noStroke();
